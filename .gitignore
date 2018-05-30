@@ -1,5 +1,5 @@
-app/words.txt
-app/wi_words_generator.py
-app/__pycache__
+application/words.txt
+application/wi_words_generator.py
+application/__pycache__/
 .DS_Store
-app/DS_store
+application/.DS_store
