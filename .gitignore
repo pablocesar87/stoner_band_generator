@@ -1,2 +1,5 @@
 app/words.txt
 app/wi_words_generator.py
+app/__pycache__
+.DS_Store
+app/DS_store
